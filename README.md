@@ -1,39 +1,12 @@
 # Junior Cloud Engineer Home Assignment
 
-This repository contains Terraform code to provision a simple web application infrastructure in AWS with support for multiple environments (dev and prod).
+This repository contains Terraform code to provision a simple web application infrastructure in AWS with support for two environments (dev and prod).
 
 ## Prerequisites
 
 - AWS CLI installed and configured
 - Terraform installed (v1.0.0 or newer)
 - Your public IP address (for security group rules)
-
-## Project Structure
-
-project-root/
-├── main.tf
-├── variables.tf
-├── outputs.tf
-├── providers.tf
-├── setup_remote_backend.tf
-├── modules/
-│   ├── vpc/
-│   │   ├── main.tf
-│   │   ├── variables.tf
-│   │   └── outputs.tf
-│   └── ec2/
-│       ├── main.tf
-│       ├── variables.tf
-│       └── outputs.tf
-├── envs/
-│   ├── dev/
-│   │   ├── backend.hcl
-│   │   └── dev.tfvars
-│   └── prod/
-│       ├── backend.hcl
-│       └── prod.tfvars
-└── README.md
-
 
 ## Deployment Instructions
 
