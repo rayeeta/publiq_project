@@ -3,7 +3,7 @@
 **Focus:** AWS + Terraform etc
 
 **Estimated Time:** Undetermine 
- 
+
 **Level:** Beginner–Intermediate  
 
 
@@ -40,7 +40,10 @@ Use Terraform to provision the following in AWS:
   Dev env commands
   terraform init -backend-config=envs/dev/backend.hcl
   terraform apply -var-file=envs/dev/dev.tfvars
+
+  ```
   
+  ```bash
   Prod env commands
   terraform init -backend-config=envs/prod/backend.hcl
   terraform apply -var-file=envs/prod/prod.tfvars
