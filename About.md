@@ -1,7 +1,9 @@
 #  Junior-Intermediate Cloud Engineer Home Assignment
 
 **Focus:** AWS + Terraform etc
-**Estimated Time:** Undetermine  
+
+**Estimated Time:** Undetermine 
+ 
 **Level:** Beginner–Intermediate  
 
 
