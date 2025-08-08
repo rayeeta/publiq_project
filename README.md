@@ -8,29 +8,7 @@ This repository contains Terraform code to provision a simple web application in
 
 ## Project Strucutre
 
-bmt-assignment/
-├── main.tf
-├── variables.tf
-├── outputs.tf
-├── providers.tf
-├── remote_backend.tf
-├── modules/
-│   ├── vpc/
-│   │   ├── main.tf
-│   │   ├── variables.tf
-│   │   └── outputs.tf
-│   └── ec2/
-│       ├── main.tf
-│       ├── variables.tf
-│       └── outputs.tf
-├── envs/
-│   ├── dev/
-│   │   ├── backend.hcl
-│   │   └── dev.tfvars
-│   └── prod/
-│       ├── backend.hcl
-│       └── prod.tfvars
-└── README.md
+![alt text](image.png)
 
 ## Prerequisites
 
