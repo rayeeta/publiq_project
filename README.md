@@ -8,7 +8,7 @@ This repository contains Terraform code to provision a simple web application in
 
 ## Project Strucutre
 
-![alt text](image-2.png)
+![alt text](image-3.png)
 
 ## Prerequisites
 
