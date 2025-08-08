@@ -1,4 +1,8 @@
 # Junior-Intermidiate Cloud Engineer Home Assignment
+    - Please, read About.md file before you proceed
+```bash
+https://github.com/rayeeta/publiq_project/blob/master/About.md
+```
 
 This repository contains Terraform code to provision a simple web application infrastructure in AWS with support for two environments (dev and prod).
 

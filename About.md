@@ -1,6 +1,6 @@
-#  Junior Cloud Engineer Home Assignment
+#  Junior-Intermediate Cloud Engineer Home Assignment
 
-**Focus:** AWS + Terraform  
+**Focus:** AWS + Terraform etc
 **Estimated Time:** Undetermine  
 **Level:** Beginner–Intermediate  
 
@@ -58,8 +58,12 @@ Use Terraform to provision the following in AWS:
     - How to deploy each environment
     - Any further explanation you deem necessary 
 
-## 3b. Push your codes to this repo: clone this repo first
-    - git@github.com:bmt-devops/bmt-iac-project.git
+## 3b. Push your codes to this repo: Pls clone the repo first before you continue
+    - mkdir bmt-home-proj
+    - cd into "bmt-home-proj" before you clone the Github directory
+```bash
+git@github.com:bmt-devops/bmt-iac-project.git
+```
 
 ## 4. AWS credentials & testing
  
