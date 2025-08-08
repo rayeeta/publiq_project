@@ -1,4 +1,4 @@
-# Junior Cloud Engineer Home Assignment
+# Junior-Intermidiate Cloud Engineer Home Assignment
 
 This repository contains Terraform code to provision a simple web application infrastructure in AWS with support for two environments (dev and prod).
 
