@@ -67,7 +67,7 @@ Use Terraform to provision the following in AWS:
     - mkdir bmt-home-proj
     - cd into "bmt-home-proj" before you clone the Github directory
 ```bash
-git@github.com:bmt-devops/bmt-iac-project.git
+git@github.com:rayeeta/publiq_project.git
 ```
 
 ## 4. AWS credentials & testing
