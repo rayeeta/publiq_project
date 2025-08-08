@@ -1,5 +1,5 @@
 # Junior-Intermidiate Cloud Engineer Home Assignment
-    - Please, read About.md file before you proceed
+    ### Please, read About.md file before you proceed
 ```bash
 https://github.com/rayeeta/publiq_project/blob/master/About.md
 ```
