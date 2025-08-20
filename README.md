@@ -29,11 +29,11 @@ terraform init
 Apply only the remote backend setup
 
 Dev environment
-terraform apply terraform init -backend-config=envs/dev/backend.hcl
+terraform init -backend-config=envs/dev/backend.hcl
 terraform apply -var-file=envs/dev/dev.tfvars
 
 Prod environment
-terraform apply terraform init -backend-config=envs/prod/backend.hcl
+terraform init -backend-config=envs/prod/backend.hcl
 terraform apply -var-file=envs/prod/prod.tfvars
 
 To very if the webserver is running in your browser, copy and paste the public_ip of the ec2_instance
